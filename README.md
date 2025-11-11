@@ -1,5 +1,5 @@
 # 💫 About Me:
-BSc CSE student — passionate about backend tooling and algorithmic problem solving (Go, C++).<br>Writes production-minded, easy-to-read code and mentors beginners.<br>Open to collaborations and MSc opportunities.
+I’m a backend-focused software developer specializing in Go with strong experience in C++ and Java, building efficient, maintainable server-side systems and developer tools and I enjoy solving algorithmic problems and applying data structures to real projects.
 
 
 ## 🌐 Socials:
